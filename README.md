@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Young Sub JO
+### Hi there 👋 My name is Yeong Seop CHO
 
 <!--
 **ys-jo/ys-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 :star: **Tech Stacks** :star:  
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style-for-the-badge&logo=Python&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style-for-the-badge&logo=C&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?&style-for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-FF9933.svg?&style-for-the-badge&logo=CSS3&logoColor=white"/>  
 <img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
