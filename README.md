@@ -1,27 +1,28 @@
-### Hi there 👋 My name is Yeong Seop CHO
+# Hi, I'm Youngseob Cho (조영섭) 👋
 
-<!--
-**ys-jo/ys-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Team @ [EYENIX](https://www.eyenix.com)** — building edge AI on RISC-V-based NPU SoCs
 
-Here are some ideas to get you started:
+I work where deep learning meets silicon: taking models from PyTorch to INT8 on custom NPUs, and making them run reliably on embedded Linux.
 
-- 🔭 I’m currently working ..
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-:star: **Tech Stacks** :star:  
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style-for-the-badge&logo=Python&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style-for-the-badge&logo=C&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?&style-for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-FF9933.svg?&style-for-the-badge&logo=CSS3&logoColor=white"/>  
-<img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+## What I do
+- **NPU SDK & Toolchain** — Develop and maintain the NPU SDK (compiler/simulator workflow)
+- **Edge AI Optimization** — PTQ/QAT, INT8 quantization, calibration and accuracy analysis
+- **Model Zoo** — Curate and deploy production-ready vision models ([eyenix_model_zoo](https://github.com/EyenixG/eyenix_model_zoo))
+- **Embedded Systems** — Linux kernel drivers
 
-![ys-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys-jo&show_icons=true&theme=radical)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fys-jo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?logo=linux&logoColor=black)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=white)
 
+**Domains:** vision based AI models
+
+## Interests
+Model compression · NPU architecture · Hardware-aware model design · AI for imaging
+
+## Contact
+- 📧 ysjo@eyenix.com
